@@ -6,6 +6,7 @@ The continous 3D scene is represented using a 5D function that maps (x, d) → (
 ![NeRF](https://github.com/Sahachar/NeRF/blob/main/NeRF_mapping.png)
 
 The novel target and approximated views are below - 
+
 ![NeRF test view](https://github.com/Sahachar/NeRF/blob/main/Target_test.png)
 ![NeRF Results](https://github.com/Sahachar/NeRF/blob/main/Result_test.png)
 
